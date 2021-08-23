@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{03AB0AB6-B259-425A-965E-9648E27A8ECB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventosYDelegados/AsistenteDescarga.cs">
+    <Files>
+      <File FileName="EventosYDelegados/Program.cs" Line="12" Column="47" />
+      <File FileName="EventosYDelegados/AsistenteDescarga.cs" Line="10" Column="1" />
+      <File FileName="EventosYDelegados/Archivo.cs" Line="6" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EventosYDelegados" expanded="True">
+            <Node name="EventosYDelegados" expanded="True">
+              <Node name="AsistenteDescarga.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EventosYDelegados FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
