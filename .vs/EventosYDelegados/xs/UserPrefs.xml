@@ -3,7 +3,7 @@
     <Files>
       <File FileName="EventosYDelegados/Program.cs" Line="12" Column="47" />
       <File FileName="EventosYDelegados/AsistenteDescarga.cs" Line="10" Column="1" />
-      <File FileName="EventosYDelegados/Archivo.cs" Line="6" Column="29" />
+      <File FileName="EventosYDelegados/Archivo.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

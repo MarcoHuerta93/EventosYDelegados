@@ -1,0 +1,13 @@
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/bin/Debug/netcoreapp3.1/EventosYDelegados.deps.json
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/bin/Debug/netcoreapp3.1/EventosYDelegados.runtimeconfig.json
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/bin/Debug/netcoreapp3.1/EventosYDelegados.runtimeconfig.dev.json
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/bin/Debug/netcoreapp3.1/EventosYDelegados.dll
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/bin/Debug/netcoreapp3.1/EventosYDelegados.pdb
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/obj/Debug/netcoreapp3.1/EventosYDelegados.csproj.AssemblyReference.cache
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/obj/Debug/netcoreapp3.1/EventosYDelegados.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/obj/Debug/netcoreapp3.1/EventosYDelegados.AssemblyInfoInputs.cache
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/obj/Debug/netcoreapp3.1/EventosYDelegados.AssemblyInfo.cs
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/obj/Debug/netcoreapp3.1/EventosYDelegados.csproj.CoreCompileInputs.cache
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/obj/Debug/netcoreapp3.1/EventosYDelegados.dll
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/obj/Debug/netcoreapp3.1/EventosYDelegados.pdb
+/Users/marcohuerta/Projects/EventosYDelegados/EventosYDelegados/obj/Debug/netcoreapp3.1/EventosYDelegados.genruntimeconfig.cache
