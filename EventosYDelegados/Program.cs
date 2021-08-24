@@ -9,20 +9,11 @@ namespace EventosYDelegados
             var archivo = new Archivo() { Titulo = "Archivo 1"};
             var asistenteDescarga = new AsistenteDescarga(); //emisor
             var servicioDesempacar = new ServicioDesempacar();//receptor
-
+            var servivioNotificacion = new ServicioNotificacion();//receptor
             asistenteDescarga.ArchivoDescargado += servicioDesempacar.EnArchivoDescargado;
-
+            asistenteDescarga.ArchivoDescargado += servivioNotificacion.EnArchivoDescargado;
             asistenteDescarga.Descarga(archivo);
             Console.ReadKey();
-        }
-    }
-
-    public class ServicioDesempacar
-    {
-        public void EnArchivoDescargado(object fuente, EventArgs e)
-        {
-            Console.WriteLine("ServicioDesempacar: desempacando el archivo...");
-
         }
     }
 }
