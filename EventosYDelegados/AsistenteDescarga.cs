@@ -10,10 +10,10 @@ namespace EventosYDelegados
   public class AsistenteDescarga
     {
         //Paso 1 crear el delegado
-        public delegate void GestorEventoArchivoDescargado(object fuente, ArchivoEventArgs args);
+        //public delegate void GestorEventoArchivoDescargado(object fuente, ArchivoEventArgs args);
 
         //Paso 2 Crear el evento basado en el delegado
-        public event GestorEventoArchivoDescargado ArchivoDescargado;
+        public event EventHandler<ArchivoEventArgs> ArchivoDescargado;
 
         //Paso 3 Iniciar el evento
 

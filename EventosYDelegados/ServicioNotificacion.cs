@@ -4,9 +4,9 @@ namespace EventosYDelegados
 {
     public class ServicioNotificacion
     {
-        public void EnArchivoDescargado(object fuente, EventArgs e)
+        public void EnArchivoDescargado(object fuente, ArchivoEventArgs e)
         {
-            Console.WriteLine("Informamos que el archivo se ha terminado de descargar");
+            Console.WriteLine("Informamos que el archivo " + e.Archivo.Titulo + " se ha terminado de descargar");
 
         }
     }
