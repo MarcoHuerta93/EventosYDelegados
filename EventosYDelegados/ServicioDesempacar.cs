@@ -4,9 +4,9 @@ namespace EventosYDelegados
 {
     public class ServicioDesempacar
     {
-        public void EnArchivoDescargado(object fuente, EventArgs e)
+        public void EnArchivoDescargado(object fuente, ArchivoEventArgs e)
         {
-            Console.WriteLine("ServicioDesempacar: desempacando el archivo...");
+            Console.WriteLine("ServicioDesempacar: desempacando el archivo..." + e.Archivo.Titulo);
 
         }
     }
